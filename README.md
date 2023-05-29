@@ -7,6 +7,7 @@ This mod will add custom spawners (using [Spawn That](https://valheim.thundersto
 * This mod will re-create some things that usually would only exist once in a certain area
   * bushes, like raspberry, blueberry, blackberry, ...
   * trees, like apple, orange, walnut, lemon
+  * food treasure chests
 * This mod will spawn herbs in the wild (not only around altars)
   * Some altars are rather extremely hard to find
 * This mod will spawn certain things that would just drop (drop chances very low)
