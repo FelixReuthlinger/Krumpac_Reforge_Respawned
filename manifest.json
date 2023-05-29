@@ -1,10 +1,11 @@
 {
-  "name": "your_mod_pack_name",
-  "description": "your mod short description",
+  "name": "Krumpac_Reforge_Respawned",
+  "description": "Adding spawners for most Reforge content.",
   "version_number": "1.0.0",
-  "website_url": "your url",
+  "website_url": "https://github.com/FelixReuthlinger/Krumpac_Reforge_Respawned",
   "dependencies": [
-    "...",
+    "ASharpPen-This_Goes_Here-2.1.1",
+    "ASharpPen-Spawn_That-1.2.5",
     "denikson-BepInExPack_Valheim-5.4.2105"
   ]
 }

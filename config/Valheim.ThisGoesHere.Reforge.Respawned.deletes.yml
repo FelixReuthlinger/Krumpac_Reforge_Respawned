@@ -1,0 +1,5 @@
+﻿PrintComment: ThisGoesHere runs Reforge.Respawned cleanup
+DeleteFile:
+- config/spawn_that.world_spawners.Plants.cfg
+- config/spawn_that.world_spawners.Fishies.cfg
+
