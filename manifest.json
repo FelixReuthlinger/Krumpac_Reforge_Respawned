@@ -1,13 +1,11 @@
 {
   "name": "Krumpac_Reforge_Respawned",
   "description": "Adding spawners for most Reforge content.",
-  "version_number": "1.0.2",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/FelixReuthlinger/Krumpac_Reforge_Respawned",
   "dependencies": [
     "ASharpPen-This_Goes_Here-2.1.1",
     "ASharpPen-Spawn_That-1.2.5",
-    "Krumpac-Krumpac_Reforge_Core-1.7.9",
-    "Krumpac-Datys_Professions-1.1.4",
     "denikson-BepInExPack_Valheim-5.4.2105"
   ]
 }

@@ -2,6 +2,8 @@
 
 This mod will add custom spawners (using [Spawn That](https://valheim.thunderstore.io/package/ASharpPen/Spawn_That/)) that will make simple things respawn. This might improve especially the availability of materials on multiplayer servers.
 
+This mod requires you to add [Krumpac Reforge mods](https://valheim.thunderstore.io/package/Krumpac/) yourself, without it will not have any effect.
+
 ## Features
 
 * This mod will re-create some things that usually would only exist once in a certain area
