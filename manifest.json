@@ -1,7 +1,7 @@
 {
   "name": "Krumpac_Reforge_Respawned",
   "description": "Adding spawners for most Reforge content.",
-  "version_number": "1.2.0",
+  "version_number": "1.2.1",
   "website_url": "https://github.com/FelixReuthlinger/Krumpac_Reforge_Respawned",
   "dependencies": [
     "ASharpPen-This_Goes_Here-2.1.1",
