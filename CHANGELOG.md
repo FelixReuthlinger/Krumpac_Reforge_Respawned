@@ -1,3 +1,4 @@
+* 1.2.3 -> increased spawning distance for a lot of objects to make map less crowded
 * 1.2.2 -> increased spawn distance for fruit trees, spawn less in total
 * 1.2.0 & .1 -> reduced spawn chances for a lot of things quite a bit
 * 1.1.3 -> update for Valheim version 0.216.9
